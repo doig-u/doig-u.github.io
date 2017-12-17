@@ -1,1 +1,7 @@
+title: doigu.tk
+email: admin@doigu.tk
+
 theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-feed
