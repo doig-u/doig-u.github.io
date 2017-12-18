@@ -1,9 +1,8 @@
 title: doigu.tk
-email: admin@doigu.tk
-description: A short description of your site's purpose
+description: Testing GitHub Pages capabilities
 show_downloads: true
 
 theme: jekyll-theme-cayman
 
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
